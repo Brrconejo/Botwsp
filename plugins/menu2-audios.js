@@ -55,6 +55,20 @@ let str = `
 ° ඬ⃟🔊 _:c_
 ° ඬ⃟🔊 _a_
 
+(っ◔◡◔)っ ♥ O̶t̶r̶o̶s̶ ♥
+
+° ඬ⃟🔊 _grr_
+° ඬ⃟🔊 _gaa_
+° ඬ⃟🔊 _gaa2_
+° ඬ⃟🔊 _telepatia_
+° ඬ⃟🔊 _no es jueves_
+° ඬ⃟🔊 _dolor_
+° ඬ⃟🔊 _épico_
+° ඬ⃟🔊 _coger_
+° ඬ⃟🔊 _me voy_
+° ඬ⃟🔊 _brr_
+° ඬ⃟🔊 _linda_
+
 *_「 𝙏͚͜͝͠𝙝͚͜͝͠𝙚͚͜͝͠ ͚͜͝͠𝙎͚͜͝͠𝙝͚͜͝͠𝙖͚͜͝͠𝙙͚͜͝͠𝙤͚͜͝͠𝙬͚͜͝͠ ͚͜͝͠𝘽͚͜͝͠𝙧͚͜͝͠𝙤͚͜͝͠𝙠͚͜͝͠𝙚͚͜͝͠𝙧͚͜͝͠𝙨͚͜͝͠ ͚͜͝͠-͚͜͝͠ ͚͜͝͠𝘽͚͜͝͠𝙤͚͜͝͠𝙩͚͜͝͠ ͚͜͝͠  」_*`.trim()
 let mentionedJid = [who]
 conn.sendFile(m.chat, pp, 'lp.jpg', str, m, false, { contextInfo: { mentionedJid }})
