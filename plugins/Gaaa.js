@@ -2,8 +2,8 @@ let util = require('util')
 let path = require('path')
 
 let handler = async (m, { conn }) => {
-let vn = './media/Gaa2.mp3'
-conn.sendFile(m.chat, vn, 'Gaa2.mp3', null, m, true, {
+let vn = './media/Gaaa.mp3'
+conn.sendFile(m.chat, vn, 'Gaaa.mp3', null, m, true, {
 type: 'audioMessage', 
 ptt: true 
 })
