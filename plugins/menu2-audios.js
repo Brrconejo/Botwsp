@@ -69,6 +69,15 @@ let str = `
 ° ඬ⃟🔊 _brr_
 ° ඬ⃟🔊 _linda_
 ° ඬ⃟🔊 _autoestima_
+° ඬ⃟🔊 _hipocurita_
+° ඬ⃟🔊 _llamaba charly_
+° ඬ⃟🔊 _me muero_
+° ඬ⃟🔊 _mff_
+° ඬ⃟🔊 _mis ojos_
+° ඬ⃟🔊 _ohh_
+° ඬ⃟🔊 _que roche_
+° ඬ⃟🔊 _ricolas_
+° ඬ⃟🔊 _saoo_
 
 *_「 𝙏͚͜͝͠𝙝͚͜͝͠𝙚͚͜͝͠ ͚͜͝͠𝙎͚͜͝͠𝙝͚͜͝͠𝙖͚͜͝͠𝙙͚͜͝͠𝙤͚͜͝͠𝙬͚͜͝͠ ͚͜͝͠𝘽͚͜͝͠𝙧͚͜͝͠𝙤͚͜͝͠𝙠͚͜͝͠𝙚͚͜͝͠𝙧͚͜͝͠𝙨͚͜͝͠ ͚͜͝͠-͚͜͝͠ ͚͜͝͠𝘽͚͜͝͠𝙤͚͜͝͠𝙩͚͜͝͠ ͚͜͝͠  」_*`.trim()
 let mentionedJid = [who]
