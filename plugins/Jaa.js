@@ -8,6 +8,6 @@ type: 'audioMessage',
 ptt: true 
 })
 }
-handler.customPrefix = /jaa|Jaa/
+handler.customPrefix = /Gaa/
 handler.command = new RegExp
 module.exports = handler
