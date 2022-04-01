@@ -20,7 +20,7 @@ let menu =`
 ║➤ *✨𝗛ola, ${username}!!*
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 ║➤ *Creador del Bot: Bruno Sobrino* 
-║➤ *Numero del creador:* *wa.me/5219992095479 (No Bot)*
+║➤ *Numero del creador:* *wa.me/51958959882 (No Bot)*
 ║➤ *PayPal:* *https://www.paypal.me/TheShadowBrokers133*
 ║➤ *Numero del Bot oficial:* *wa.me/5219991402134*
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡
