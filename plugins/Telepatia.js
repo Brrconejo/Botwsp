@@ -8,6 +8,6 @@ type: 'audioMessage',
 ptt: true 
 })
 }
-handler.customPrefix = /eelepatia|Telepatia/
+handler.customPrefix = /telepatia|Telepatia/
 handler.command = new RegExp
 module.exports = handler
