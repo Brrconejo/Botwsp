@@ -12,7 +12,7 @@ let handler = async (m, { conn, command, text }) => {
   let { dl_link, thumb, title, filesize, filesizeF} = await (isVideo ? ytv : yta)(vid.url, 'id4')
   //let isLimit = (isPrems || isOwner ? 99 : limit) * 1024 < filesizesLimit
   conn.sendFile(m.chat, thumb, 'thumbnail.jpg', `
-*🪄 ️Reproductor By Gata Dios 🪄*
+*🪄 ️Reproductor By Mod Siryus 🪄*
 
 💗 *${title}*
 9:99 ━❍──────── -9:99
