@@ -83,9 +83,9 @@ let str = `
 ° ඬ⃟🔊 _goku_
 ° ඬ⃟🔊 _Me doxean_
 ° ඬ⃟🔊 _ya basta_
-° ඬ⃟🔊 _Mamut_
+° ඬ⃟🔊 _mamut_
 ° ඬ⃟🔊 _yair_
-
+° ඬ⃟🔊 _valio_
 *_「 𝙏͚͜͝͠𝙝͚͜͝͠𝙚͚͜͝͠ ͚͜͝͠𝙎͚͜͝͠𝙝͚͜͝͠𝙖͚͜͝͠𝙙͚͜͝͠𝙤͚͜͝͠𝙬͚͜͝͠ ͚͜͝͠𝘽͚͜͝͠𝙧͚͜͝͠𝙤͚͜͝͠𝙠͚͜͝͠𝙚͚͜͝͠𝙧͚͜͝͠𝙨͚͜͝͠ ͚͜͝͠-͚͜͝͠ ͚͜͝͠𝘽͚͜͝͠𝙤͚͜͝͠𝙩͚͜͝͠ ͚͜͝͠  」_*`.trim()
 let mentionedJid = [who]
 conn.sendFile(m.chat, pp, 'lp.jpg', str, m, false, { contextInfo: { mentionedJid }})
