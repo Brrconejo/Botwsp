@@ -14,7 +14,7 @@ if (!effect) throw '*[❗] ¿Como usar este comando?*\n_#logo (efecto) (texto)_\
   })
   await conn.sendFile(m.chat, result.data, 'Error.jpg', `*Toma tu imagen personalizada!!*\n*Efecto: ${effect}*`, m)
 }
-handler.command = /^(logoss|Logoss)$/i
+handler.command = /^(logos|Logos)$/i
 
 module.exports = handler
 
