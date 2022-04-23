@@ -22,7 +22,6 @@ let menu =`
 ║➤ *Creador del Bot: Mod Siryus* 
 ║➤ *Numero del creador:* *wa.me/51958959882 (No Bot)*
 ║➤ *PayPal:* *https://www.paypal.me/TheShadowBrokers133*
-║➤ *Numero del Bot oficial:* *wa.me/5219991402134*
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 ╰══╡✯✯✯✯✯✯✯✯╞══╯
 ┏━━━━━━━━━━━━━┓
@@ -146,6 +145,8 @@ let menu =`
 ┣ ඬ⃟💎 _${usedPrefix}daradmin *@tag*_
 ┣ ඬ⃟💎 _${usedPrefix}quitaradmin *@tag*_
 ┣ ඬ⃟💎 _${usedPrefix}grupo *abrir / cerrar*_
+┣ ඬ⃟💎 _${usedPrefix}enable nsfw_
+┣ ඬ⃟💎 _${usedPrefix}disable nsfw_
 ┣ ඬ⃟💎 _${usedPrefix}enable welcome_
 ┣ ඬ⃟💎 _${usedPrefix}disable welcome_
 ┣ ඬ⃟💎 _${usedPrefix}enable antilink_
