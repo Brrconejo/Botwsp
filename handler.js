@@ -447,7 +447,7 @@ ${global.owner.map((v, i) => '*Contacto ' + (i + 1) + ':* wa.me/' + v).join('\n'
         if (chat.welcome) {
           let groupMetadata = await this.groupMetadata(jid)
           for (let user of participants) {
-            let pp = './undefined.jpg'
+            let pp = './adios.jpg'
             try {
               pp = await this.getProfilePicture(user)
             } catch (e) {
