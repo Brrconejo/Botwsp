@@ -60,7 +60,8 @@ _#logo Wolf-Logo-Galaxy Shadow|Brokers_
 ° ඬ⃟ #logo Online-3D-gradient--generator
 ° ඬ⃟ #logo a-3D-glossy-metal
 ° ඬ⃟ #logo 3D-realistic--on-the-beach
-° ඬ⃟ #logo a-watercolor                                                                                               ° ඬ⃟ #logo Online-multicolor-3D-paper-cut
+° ඬ⃟ #logo a-watercolor                                                                                               
+° ඬ⃟ #logo Online-multicolor-3D-paper-cut
 ° ඬ⃟ #logo Write-text-on-foggy-window
 ° ඬ⃟ #logo neon-devil-wings
 ° ඬ⃟ #logo 3D-underwater--generator
@@ -69,7 +70,8 @@ _#logo Wolf-Logo-Galaxy Shadow|Brokers_
 ° ඬ⃟ #logo a-cool-graffiti-text-on-the-wall
 ° ඬ⃟ #logo cool-wall-graffiti
 ° ඬ⃟ #logo a-christmas-holiday-snow
-° ඬ⃟ #logo a-futuristic-technology-neon-light                                                                         ° ඬ⃟ #logo snow--for-winter-holidays
+° ඬ⃟ #logo a-futuristic-technology-neon-light                                                                         
+° ඬ⃟ #logo snow--for-winter-holidays
 ° ඬ⃟ #logo a-cloud--on-the-sky
 ° ඬ⃟ #logo 3D-luxury-gold
 ° ඬ⃟ #logo 3D-gradient
@@ -109,7 +111,8 @@ _#logo Wolf-Logo-Galaxy Shadow|Brokers_
 ° ඬ⃟ #logo Happ-new-year-card-firework-gif
 ° ඬ⃟ #logo Fullcolor-Balloon
 ° ඬ⃟ #logo Text-Logo-3D-Metal
-° ඬ⃟ #logo avatar-gold                                                                                                ° ඬ⃟ #logo Text-Logo-3D-Metal-Silver
+° ඬ⃟ #logo avatar-gold                                                                                                
+° ඬ⃟ #logo Text-Logo-3D-Metal-Silver
 ° ඬ⃟ #logo Text-Logo-3D-Metal-Rose-Gold
 ° ඬ⃟ #logo Text-Logo-3D-Metal-Gold
 ° ඬ⃟ #logo Text-Logo-3D-Metal-Galaxy
@@ -226,6 +229,6 @@ _#logo Wolf-Logo-Galaxy Shadow|Brokers_
 let mentionedJid = [who]
 conn.sendFile(m.chat, pp, 'lp.jpg', str, m, false, { contextInfo: { mentionedJid }})
 }}
-handler.command = /^(logos menu|Logos menu)$/i
+handler.command = /^(logos|Logos)$/i
 handler.fail = null
 module.exports = handler
