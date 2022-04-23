@@ -226,6 +226,6 @@ _#logo Wolf-Logo-Galaxy Shadow|Brokers_
 let mentionedJid = [who]
 conn.sendFile(m.chat, pp, 'lp.jpg', str, m, false, { contextInfo: { mentionedJid }})
 }}
-handler.command = /^(menu logos|Menu Logos)$/i
+handler.command = /^(logos menu|Logos menu)$/i
 handler.fail = null
 module.exports = handler
