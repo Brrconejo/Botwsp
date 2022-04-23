@@ -1,6 +1,6 @@
 let PhoneNumber = require('awesome-phonenumber')
 let handler = async (m, { conn }) => {
-  let pp = './undefined.jpg'
+  let pp = './bienvenida.jpg'
   let who = m.mentionedJid && m.mentionedJid[0] ? m.mentionedJid[0] : m.fromMe ? conn.user.jid : m.sender
   try {
     pp = await conn.getProfilePicture(who)
