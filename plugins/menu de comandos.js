@@ -172,7 +172,8 @@ let menu =`
 ┣ ඬ⃟🧧 _${usedPrefix}s_
 ┣ ඬ⃟🧧 _${usedPrefix}sticker_
 ┣ ඬ⃟🧧 _${usedPrefix}semoji_
-┣ ඬ⃟🧧 _${usedPrefix}wasted_
+┣ ඬ⃟🧧 _${usedPrefix}wasted_ *responde a una imagen*_
+┣ ඬ⃟🧧 _${usedPrefix}wanted_ *responde a una imagen*_
 ┣ ඬ⃟🧧 _${usedPrefix}stonks_
 ┣ ඬ⃟🧧 _${usedPrefix}trash_
 ┣ ඬ⃟🧧 _${usedPrefix}rainbow_
