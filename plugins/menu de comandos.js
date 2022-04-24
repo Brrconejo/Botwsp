@@ -65,7 +65,7 @@ let menu =`
 ┣ ඬ⃟🎖️ _${usedPrefix}toppajer@s_
 ┣ ඬ⃟🎖️ _${usedPrefix}topotakus_
 ┣ ඬ⃟🎖️ _${usedPrefix}toput@s_
-┣ ඬ⃟🎖️ _${usedPrefix}toptop10integrantes_
+┣ ඬ⃟🎖️ _${usedPrefix}top10integrantes_
 ┣ ඬ⃟🎖️ _${usedPrefix}top10grasa_
 ┣ ඬ⃟🎖️ _${usedPrefix}top10pana_
 ┣ ඬ⃟🎖️ _${usedPrefix}top10shiposter_
