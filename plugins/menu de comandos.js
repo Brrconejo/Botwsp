@@ -21,7 +21,7 @@ let menu =`
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 ║➤ *Creador del Bot: Mod Siryus* 
 ║➤ *Numero del creador:* *wa.me/51958959882 (No Bot)*
-║➤ *PayPal:* *https://www.paypal.me/TheShadowBrokers133*
+║➤ *PayPal:* *https://www.paypal.com/paypalme/BrrBandida*
 ║≡≡≡≡≡≡≡≡≡≡≡≡≡≡
 ╰══╡✯✯✯✯✯✯✯✯╞══╯
 ┏━━━━━━━━━━━━━┓
